@@ -89,7 +89,7 @@ export function Header() {
               }`}
             >
               <Phone className="w-4 h-4" />
-              <span className="hidden xl:inline">+34 600 000 000</span>
+              <span className="hidden xl:inline">+34 616385515</span>
             </a>
             <Button variant="gold" size="default">
               Quiero vender mi propiedad
